@@ -16,13 +16,13 @@ A small collection of Alfred Themes I designed.
 ## Themes
 
 ### Fire & Ice
-<img width="1036" alt="Screenshot 2021-12-23 15 54 32" src="https://user-images.githubusercontent.com/73286100/147256998-b5b331db-f4cb-40e2-8efa-994f566b0140.png">
+<img width=60% alt="Screenshot 2021-12-23 15 54 32" src="https://user-images.githubusercontent.com/73286100/147256998-b5b331db-f4cb-40e2-8efa-994f566b0140.png">
 
 [➡️ Download](Fire%20&%20Ice.alfredappearance)  
 The theme also uses the Recursive Font, which you can [download here](https://fonts.google.com/specimen/Recursive).
 
 ### Dracula
-<img width="1048" alt="Screenshot 2021-12-23 15 55 45" src="https://user-images.githubusercontent.com/73286100/147257124-6accb715-82e8-4357-8afc-89c19183621b.png">
+<img width=60% alt="Screenshot 2021-12-23 15 55 45" src="https://user-images.githubusercontent.com/73286100/147257124-6accb715-82e8-4357-8afc-89c19183621b.png">
 
 [➡️ Download](pseudometa's%20Dracula.alfredappearance)
 
