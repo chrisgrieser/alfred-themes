@@ -1,0 +1,64 @@
+{
+  "alfredtheme" : {
+    "result" : {
+      "textSpacing" : 9,
+      "subtext" : {
+        "size" : 19,
+        "colorSelected" : "#DB290CFF",
+        "font" : "Recursive",
+        "color" : "#00D5FFFF"
+      },
+      "shortcut" : {
+        "size" : 18,
+        "colorSelected" : "#DB290CFF",
+        "font" : "System",
+        "color" : "#B2B2B2FF"
+      },
+      "backgroundSelected" : "#FFBB00FF",
+      "text" : {
+        "size" : 30,
+        "colorSelected" : "#590907FF",
+        "font" : "Recursive",
+        "color" : "#FDFDFDFF"
+      },
+      "iconPaddingHorizontal" : 9,
+      "roundness" : 7,
+      "paddingVertical" : 7,
+      "iconSize" : 56
+    },
+    "search" : {
+      "backgroundSelected" : "#00D5FFFF",
+      "paddingHorizontal" : 8,
+      "spacing" : 7,
+      "text" : {
+        "size" : 57,
+        "colorSelected" : "#000000FF",
+        "font" : "Recursive",
+        "color" : "#FDFDFDFF"
+      },
+      "background" : "#0000007F",
+      "roundness" : 9,
+      "paddingVertical" : 0
+    },
+    "window" : {
+      "color" : "#454545FF",
+      "paddingHorizontal" : 6,
+      "width" : 978,
+      "borderPadding" : 5,
+      "borderColor" : "#0000007F",
+      "blur" : 0,
+      "roundness" : 11,
+      "paddingVertical" : 6
+    },
+    "credit" : "pseudometa",
+    "separator" : {
+      "color" : "#628DB372",
+      "thickness" : 2
+    },
+    "scrollbar" : {
+      "color" : "#000000B2",
+      "thickness" : 15
+    },
+    "name" : "Fire & Ice"
+  }
+}
