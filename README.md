@@ -1,6 +1,18 @@
 # pseudometa's Alfred Themes
 A small collection of Alfred Themes I designed.
 
+## Table of Contents
+<!-- MarkdownTOC -->
+
+- [Themes](#themes)
+	- [Fire & Ice](#fire--ice)
+	- [Dracula](#dracula)
+- [Installation](#installation)
+- [Related Work](#related-work)
+- [Credits](#credits)
+
+<!-- /MarkdownTOC -->
+
 ## Themes
 
 ### Fire & Ice
