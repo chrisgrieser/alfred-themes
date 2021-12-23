@@ -30,7 +30,7 @@ The theme also uses the Recursive Font, which you can [download here](https://fo
 Double-click the `.alfredappearance` file.
 
 ## Related Work
-If you use Obsidian, be sure to check out my Theme for Obsidian, [Shimmering Focus](https://github.com/chrisgrieser/shimmering-focus).
+If you use Obsidian, be sure to check out my theme for Obsidian, [Shimmering Focus](https://github.com/chrisgrieser/shimmering-focus).
 
 ## Credits
 In my day job, I am a researcher and sociology. In my phD project, I investigate the governance of the app economy and how software ecosystems manage the tension between innovation and compatibility. If you are interested in this subject, feel free to visit [my academic homepage](https://chris-grieser.de/) and get in touch!
