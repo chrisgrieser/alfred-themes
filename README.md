@@ -10,6 +10,8 @@ A small collection of Alfred Themes I designed.
 - [Installation](#installation)
 - [Related Work](#related-work)
 - [Credits](#credits)
+	- [Profiles](#profiles)
+	- [Donate](#donate)
 
 <!-- /MarkdownTOC -->
 
@@ -35,8 +37,16 @@ If you use Obsidian, be sure to check out my theme for Obsidian, [Shimmering Foc
 ## Credits
 In my day job, I am a researcher and sociology. In my phD project, I investigate the governance of the app economy and how software ecosystems manage the tension between innovation and compatibility. If you are interested in this subject, feel free to visit [my academic homepage](https://chris-grieser.de/) and get in touch!
 
-Twitter: [@pseudo_meta](https://twitter.com/pseudo_meta)
+<!-- markdown-link-check-disable -->
 
----
+### Profiles
+- [Discord](https://discordapp.com/users/462774483044794368/)
+- [Academic Website](https://chris-grieser.de/)
+- [GitHub](https://github.com/chrisgrieser/)
+- [Twitter](https://twitter.com/pseudo_meta)
+- [ResearchGate](https://www.researchgate.net/profile/Christopher-Grieser)
+- [LinkedIn](https://www.linkedin.com/in/christopher-grieser-ba693b17a/) 
 
-[⬆️ Go Back to Top](#Table-of-Contents)
+### Donate
+<a href='https://ko-fi.com/Y8Y86SQ91' target='_blank'><img height='36' style='border:0px;height:36px;' src='https://cdn.ko-fi.com/cdn/kofi1.png?v=3' border='0' alt='Buy Me a Coffee at ko-fi.com' /></a>
+
